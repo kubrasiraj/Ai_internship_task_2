@@ -1,4 +1,4 @@
-# Data Classification Using AI
+# Data Classification
 
 This repository contains **Project 2: Data Classification Using AI**, completed as part of the Artificial Intelligence Internship at DecodeLabs.
 
